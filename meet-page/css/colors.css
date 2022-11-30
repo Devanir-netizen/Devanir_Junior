@@ -1,0 +1,15 @@
+:root {
+    --cyan-100: #8fe3f9;
+    --cyan-400: #4d96a9;
+    --cyan-400-transparent: rgba(77, 151, 169, 0.8);
+
+    --purple-100: #d9b8ff;
+    --purple-400: #855fb1;
+
+    --gray-100: #fafafa;
+    --gray-400: #87879d;
+    --gray-900: #28283d;
+
+    --white: #ffffff;
+    --vc_e_gay:pink;
+}
